@@ -1,4 +1,6 @@
 # BetaSoloInterface
 ## ver1.0
 - Contributer: JackieZhai
-- Commment: Create the project for testing.
+- Commment: 
+  1. Create the project for testing.
+  2. Test the button basic usage.
